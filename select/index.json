@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "UP TO DATE",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-01-11T11:52:01.879226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Was a Demo for This One Song but I Couldn't Find the More Up to Date Version So This Will Have to Do Sorry",
+      "artist": "Rav",
+      "has_synced": true,
+      "path": "select/01_This_Was_a_Demo_for_This_One_Song_but_I_Couldn't_Find_the_More_Up_to_Date_Versio_Rav.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "“Almost Up to Date” (live in Chicago, 10/31/1973, Show 1)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/02_“Almost_Up_to_Date”_(live_in_Chicago,_10_31_1973,_Show_1)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "“Almost Up to Date” (live in Chicago, 10",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/03_“Almost_Up_to_Date”_(live_in_Chicago,_10_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Up To Date",
+      "artist": "Mike Zombie",
+      "has_synced": false,
+      "path": "select/04_Up_To_Date_Mike_Zombie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "\"Almost Up To Date\" (Live In Chicago, 10/31/1973, Show 1)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/05_Almost_Up_To_Date__(Live_In_Chicago,_10_31_1973,_Show_1)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Almost Up To Date",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/06_Almost_Up_To_Date_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "this was a demo for this one song but i couldn't find the more up to date version so this will have to do sorry",
+      "artist": "Rav",
+      "has_synced": true,
+      "path": "select/07_this_was_a_demo_for_this_one_song_but_i_couldn't_find_the_more_up_to_date_versio_Rav.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Was a Demo for This One Song but I Couldn't Find the More Up to Date Version So This Will Have to Do Sorry [Explicit]",
+      "artist": "Rav",
+      "has_synced": true,
+      "path": "select/08_This_Was_a_Demo_for_This_One_Song_but_I_Couldn't_Find_the_More_Up_to_Date_Versio_Rav.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Can Always Be (Up to Date) (Male vocal)",
+      "artist": "Dick Walter",
+      "has_synced": true,
+      "path": "select/09_You_Can_Always_Be_(Up_to_Date)_(Male_vocal)_Dick_Walter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Don't Have to Be (Up to Date) (Male vocal)",
+      "artist": "Dick Walter",
+      "has_synced": true,
+      "path": "select/10_You_Don't_Have_to_Be_(Up_to_Date)_(Male_vocal)_Dick_Walter.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UP TO DATE",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_UP_TO_DATE_田中有紀.txt"
+    }
+  ]
+}
