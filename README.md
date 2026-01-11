@@ -1,0 +1,77 @@
+# 田中有紀 – UP TO DATE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+それは突然だった
+わたしのbreakout
+禁じられてなんかない
+世界が呼んでるって
+案外見てみなくちゃ
+REALは空想
+慎重とは程遠い
+NO PLANは最高峰
+現世来世 魑魅魍魎
+乙女センスwonderer
+異世界とはゲンジツ
+どうなのなんなの
+MAKE IT, MAKE IT
+いってみりゃイイじゃん
+TAKE IT, TAKE IT
+What a wonderful day!
+OK (毎秒) 最高
+「正しい」より「楽しい」方へ
+MAKE IT, MAKE IT
+いっちゃうがFUN FUN
+TAKE IT, TAKE IT
+やっちゃえばFUN FUN
+GO GO (絶頂) 最高
+出たとこ勝負
+わたしUP TO DATE
+そこへ行かないなんて
+もったいないfor sure
+まるでNO WAYの森
+fantasyの迷路だった
+思い込み疑心暗鬼
+普通や当然
+がんじがらめの結界
+壊してどんなもんだい
+無我夢中に意気揚々
+あざといしぶといwonder land
+好奇心全開
+なんだかイイかも
+MAKE IT, MAKE IT
+それしかナイじゃん
+TAKE IT, TAKE IT
+やっちゃうが正義
+OK (毎秒) 最高
+今しかないときめきへ
+MAKE IT, MAKE IT
+ぶっちぎりFUN FUN
+TAKE IT, TAKE IT
+謳歌するFUN FUN
+GO GO (絶頂) 最高
+ガムシャラに前進
+わたしUP TO DATE
+笛の合図で晴れるや
+夢も現実の一部
+迎えに行こう明日を
+everywhere, believing myself
+聖者なんていなくたって
+夢中に駆け上がれる
+つまんないことしたくない
+HELLO HELLO HELLO
+MAKE IT, MAKE IT
+いってみりゃイイじゃん
+TAKE IT, TAKE IT
+What a wonderful day!
+OK (毎秒) 最高
+「正しい」より「楽しい」方へ
+MAKE IT, MAKE IT
+いっちゃうがFUN FUN
+TAKE IT, TAKE IT
+やっちゃえばFUN FUN
+GO GO (絶頂) 最高
+出たとこ勝負
+わたしUP TO DATE
+```
